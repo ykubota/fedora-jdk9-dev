@@ -20,5 +20,5 @@ RUN : \
  && cd jdk9-dev \
  && bash get_source.sh \
  && bash configure \
- && make
+ && make \
  && :
